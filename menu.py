@@ -3,7 +3,7 @@
 # Objetivo: La compañía Genisys Inc cuenta con múltiples edificios en los cuáles brinda el servicio de estacionamiento
 #de vehículos para clientes particulares.
 # Repositorio: https://github.com/moralesklisban9/Examen.git
-# Autor: Klisban Morales 0801199919211
+# Autor: Klisban Morales-0801199919211
 # Fecha: *Viernes* 13 Marzo 2020
 import sys
 import platform
